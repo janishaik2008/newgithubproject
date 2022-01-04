@@ -1,1 +1,2 @@
 file2
+adding contents in file2
